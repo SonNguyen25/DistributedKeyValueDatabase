@@ -1,0 +1,14 @@
+---
+:id: 124919258
+:submitters:
+- :name: Duy Tran
+  :email: tran.duy2@northeastern.edu
+- :name: Son Nguyen
+  :email: nguyen.so@northeastern.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2022-05-02 23:04:07.749395000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2022-05-02 16:04:07.749395000 Z
+:status: processed
+:score: 95.625
